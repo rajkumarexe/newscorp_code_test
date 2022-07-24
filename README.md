@@ -11,3 +11,7 @@
 6. If you want to change any style, edit the **scss\main.scss** file and run command **npm run css** to compile scss file to css file.
 
 7. If can run command **npm run watch** to auto compile scss to css during development.
+
+
+Tech Stack Used:
+HTML5, SASS, Vanilla JS, Bootstrap, handlebars, Json
