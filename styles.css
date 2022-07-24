@@ -1,0 +1,25 @@
+body {
+  font-size: 20px; }
+
+.wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer; }
+  .wrapper .aside-2 {
+    order: 2;
+    flex-grow: 0; }
+
+.news {
+  flex: 3 0px;
+  order: 1; }
+  .news-media {
+    padding: 1rem;
+    display: flex;
+    cursor: pointer; }
+  .news-title {
+    font-size: 3rem; }
+  .news-content {
+    color: #606669; }
+  .news-category {
+    color: #0059bf; }
